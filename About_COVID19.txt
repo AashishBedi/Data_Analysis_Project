@@ -1,0 +1,101 @@
+📌 Project Title: COVID-19 Global Impact Dashboard
+🎯 Project Objective
+The purpose of this project is to visualize and analyze the global spread and impact of COVID-19 using an interactive Tableau dashboard. The dashboard helps users understand the trends, affected regions, and critical statistics like confirmed cases, deaths, and recoveries — all in a clear and intuitive interface.
+
+🛠️ Tech Stack Used
+Component	Description
+Tableau	Primary tool for data visualization and interactive dashboard creation
+Excel/CSV	Likely used as the data source (e.g., WHO, JHU CSSE, or Kaggle datasets)
+Calculated Fields	For creating metrics like Case Fatality Rate, Recovery Rate, etc.
+Filters, Parameters, Actions	For interactivity and drill-downs within the dashboard
+📊 Key Visualizations & Dashboard Components (based on standard COVID dashboards)
+Global Summary KPIs
+
+Total Confirmed Cases
+
+Total Deaths
+
+Total Recoveries
+
+Active Cases
+
+Map View
+
+World map or country-level choropleth map showing the intensity of the pandemic
+
+Color-coded by number of confirmed cases or death rate
+
+Time Series Chart
+
+Line chart showing daily or cumulative trends for:
+
+Confirmed Cases
+
+Deaths
+
+Recoveries
+
+Helps track the outbreak over time
+
+Country/Region Comparison
+
+Bar chart or ranked table of top 10/20 affected countries
+
+Includes metrics like death rate, active cases, or vaccination rate
+
+Interactive Filters
+
+Filter by:
+
+Country/Continent
+
+Date Range
+
+Status (Confirmed, Recovered, Deaths)
+
+Age group or Gender (if available)
+
+Tooltips and Drilldowns
+
+Hovering over data points shows exact numbers
+
+Possible drill-down from continent → country → state-level data
+
+📁 Probable Dataset Columns
+Column Name	Description
+Date	Date of record
+Country/Region	Country name
+State/Province	Sub-national region (if available)
+Confirmed	Number of confirmed cases
+Deaths	Number of deaths
+Recovered	Number of recoveries
+Population	Total population of that region (if used)
+Latitude/Longitude	For map-based plotting
+🌍 Use Cases & Impact
+Public Awareness: Helps general users understand global pandemic spread.
+
+Policy Decision Support: Useful for health authorities to allocate resources.
+
+Trend Monitoring: Identify waves, peaks, and flattening curves.
+
+Comparative Analysis: See how different regions are coping with the pandemic.
+
+📈 Suggestions for Improvement
+If you want to upgrade this dashboard for your resume/portfolio:
+
+Add Vaccination Data
+
+Use a secondary dataset to show total vaccinated per country
+
+Include Mortality & Recovery Rates
+
+Use calculated fields in Tableau for deeper metrics
+
+Embed in Public Tableau Profile
+
+Publish it on Tableau Public for sharing in resume/LinkedIn
+
+Add Forecasting
+
+Use Tableau’s built-in forecasting tools for future case predictions
+
