@@ -1,0 +1,26 @@
+🛍️ Black Friday Sales Data Analysis
+Tech Stack: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+Overview:
+Analyzed a real-world retail dataset to uncover purchasing trends and customer behavior during Black Friday sales. This project focuses on exploratory data analysis (EDA) and visual storytelling to derive insights that can support business decision-making.
+
+Key Highlights:
+
+Imported and cleaned a large transactional dataset, handling missing values and irrelevant columns.
+
+Performed demographic analysis on features like age, gender, occupation, and city category.
+
+Created interactive visualizations including pie charts, bar plots, and heatmaps to display:
+
+Gender and age group distribution
+
+Purchase trends by gender, age, and product category
+
+Missing data patterns in the dataset
+
+Calculated average purchases across demographics to identify high-value customer segments.
+
+Ensured code readability with self-explanatory comments and modular structure.
+
+Impact:
+Helped identify key customer segments and products driving revenue during promotional events, which can be leveraged to optimize targeted marketing strategies.
